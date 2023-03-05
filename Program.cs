@@ -1,5 +1,11 @@
-﻿namespace BookStore
+﻿using BookStore.DataModels;
+using BookStore.Enums;
+using BookStore.Helper;
+using BookStore.Managers;
+
+internal class Program
 {
+
     static void Main(string[] args)
     {
 
